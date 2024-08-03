@@ -81,7 +81,7 @@ conda activate switch-pg
 
 # clone this repository and the dependency submodules (PowerGenome and MIP_results_comparison)
 cd <wherever you want the Switch-USA-PG code>
-git clone https://github.com/switch-model/Switch-USA-PG --recurse-submodules
+git clone  https://github.com/EthanHartley22/Switch-NG-Integration --recurse-submodules
 cd Switch-USA-PG
 
 # Setup powergenome environment
